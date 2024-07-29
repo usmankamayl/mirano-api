@@ -9,7 +9,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const corsOptions = {
-  origin: 'https://mirano-eight.vercel.app', // Замените на URL вашего фронтенда
+  origin: 'https://mirano-cdtf5f1mz-usmankamayls-projects.vercel.app', // Замените на URL вашего фронтенда
   credentials: true,
 };
 
